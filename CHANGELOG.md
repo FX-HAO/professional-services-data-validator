@@ -2,6 +2,19 @@
 
 ## Untagged
 
+## [1.8.0](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v1.7.0...v1.8.0) (2022-03-25)
+
+
+### Features
+
+* Hash selective columns ([#407](https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/407)) ([88b6620](https://github.com/GoogleCloudPlatform/professional-services-data-validator/commit/88b66201750db3e1a0577f12965551f8955a2525))
+* Support for custom query ([#390](https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/390)) ([7a218d2](https://github.com/GoogleCloudPlatform/professional-services-data-validator/commit/7a218d2b516d480dad05f6fb52ed6347aef429ed))
+
+
+### Bug Fixes
+
+* Impala strings/objects now return None instead of NaN ([#406](https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/406)) ([9d3c5ec](https://github.com/GoogleCloudPlatform/professional-services-data-validator/commit/9d3c5ecf1babae2c811a30d0820701b124ae1c50))
+
 ## [1.7.0](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v1.6.0...v1.7.0) (2022-03-23)
 
 
